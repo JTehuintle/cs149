@@ -1,0 +1,16 @@
+ 1014  add .
+ 1015  git add .
+ 1016  wget -O out.pdf https://tinyurl.com/yy94jltt
+ 1017  get -O out.pdf https://tinyurl.com/yy94jltt
+ 1018  ls -latr
+ 1019  wget -O out.pdf https://tinyurl.com/yy94jltt
+ 1020  git remote add origin https://github.com/JTehuintle/cs149.git
+ 1021  git config --global user.email juanmiguel102938@gmail.com
+ 1022  git config --global user.name JTehuintle
+ 1023  mkdir WS_bonus
+ 1024  cd WS_bonus
+ 1025  git add .
+ 1026  wget -O out.pdf https://tinyurl.com/yy94jltt
+ 1027  wget https://tinyurl.com/yy94jltt
+ 1028  curl -L -o out.pdf https://tinyurl.com/yy94jltt\n
+ 1029  ls -latr
