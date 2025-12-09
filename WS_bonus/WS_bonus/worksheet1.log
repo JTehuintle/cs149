@@ -1,0 +1,16 @@
+ 1048  git clone git://g.csail.mit.edu/xv6-labs-2023
+ 1049  cd xv6-labs-2023
+ 1050   git commit -am 'my solution for util lab exercise 1'
+ 1051  make qemu
+ 1052  ls
+ 1053  ls user
+ 1054  UPROGS= ... _sleep ...
+ 1055  make qemu
+ 1056  $ sleep 10
+ 1057  sleep 10
+ 1058  ./grade-lab-util sleep
+ 1059  history > worksheet1.log
+ 1060  head worksheet1.log
+ 1061  git add sleep.c worksheet1.log
+ 1062  ./grade-lab-util sleep
+ 1063  make GRADEFLAGS=sleep grade
